@@ -33,7 +33,7 @@
 - 오버라이딩 : 자식 클래스가 부모 클래스의 메서드를 재정의하는 것
 - 가상메서드 : 런타임에 실제 객체의 타입에 따라 호출될 메서드가 결정되는 메커니즘
 - 다형성 : 한 객체가 여러 형태를 가질 수 있는 것. 
-> 상속으로 공통 인터페이스를 정의하고, 오버라이딩으로 각 클래스의 특성을 구현하며, 업캐스팅과 가상메서드를 통해 런타임에 적절한 동작이 선택되어 다형성이 실현됩니다. 이로 인해 개방-폐쇄 원칙을 따를 수 있습니다. 
+> 상속으로 공통 인터페이스를 정의하고, 오버라이딩으로 각 클래스의 특성을 구현하며, 업캐스팅과 가상메서드를 통해 런타임에 적절한 동작이 선택되어 다형성이 실현됩니다. 이로 인해 확장에는 열려있고 변화에는 닫혀 있는 개방-폐쇄 원칙을 따를 수 있습니다. 
 
 ### 추상 클래스와 인터페이스 차이 
 
@@ -79,7 +79,7 @@ Class Loader -> Runtime Data Area -> Execution Engine -> GC
 
 
 
-
+https://f-lab.kr/blog/java-backend-interview-1?gad_source=1&gad_campaignid=22368870602&gbraid=0AAAAACGgUFfGdSb7Zo8jhutK4WxjIUPDq&gclid=Cj0KCQjwndHEBhDVARIsAGh0g3DiIqnlOX2p9NOcgeh8GmluHsJ5LgsnzFNt_xat5EXZhHf6vYV_DgYaAjAfEALw_wcB
 
 
 
